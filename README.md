@@ -110,8 +110,8 @@ python main.py
 ---
 
 ## 🔹 Conclusion  
-LLMs show strong potential in processing legal text, but limitations remain in **reasoning, reliability, and handling complex multilingual data**.
-
+LLMs show strong potential in processing legal text, especially for information extraction and numerical understanding.
+However, limitations remain in legal reasoning, reliability, and handling complex multilingual data, making them unsuitable as fully independent legal assistants.
 ---
 
 ## Authors  
